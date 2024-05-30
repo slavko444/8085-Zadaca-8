@@ -89,9 +89,13 @@ RET
 [Slavko Srebrenoski ](https://github.com/slavko444)
 
 
+
+
 **Subject**
 
 Microcomputer's systems
+
+
 
 **Built With**
 
@@ -99,9 +103,13 @@ This project is built using the following tools:
 
 - [e8085](https://emu8086-microprocessor-emulator.en.softonic.com/): Assembler and emulator for the Intel 8085 microprocessor.
 
+
+
 **Getting Started**
 
 To get a local copy up and running, follow these steps.
+
+
 
 **Prerequisites**
 
@@ -110,6 +118,8 @@ In order to run this project you need:
 A working computer
 Connection to internet
 Setup
+
+
 
 **How to Run**
 
